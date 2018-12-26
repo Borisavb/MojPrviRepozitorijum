@@ -1,0 +1,2 @@
+# MojPrviRepozitorijum
+Za potrebe nastave.
